@@ -1,0 +1,5 @@
+textblob
+nltk
+pillow
+opencv-python
+numpy
